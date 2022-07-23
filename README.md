@@ -10,6 +10,21 @@ Link: https://ionicframework.com/docs/intro/cli
 
 > ionic start proj-name blank
 
-- ionic start
-- project name
-- configuration: tabs, brank or side menu
+- To start the applicatio:
+  > ionic serve
+
+* ionic start
+* project name
+* configuration: tabs, brank or side menu
+
+## CORDOVA
+
+Link: https://cordova.apache.org/
+
+## CAPACITOR
+
+Link: https://capacitorjs.com/
+
+## IONIC FIREBASE
+
+Link: https://ionicframework.com/docs/native/firebase
