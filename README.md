@@ -25,6 +25,30 @@ Link: https://cordova.apache.org/
 
 Link: https://capacitorjs.com/
 
+> ionic integrations enable capacitor
+
+> ionic build
+
+### Install Cocoapods
+
+Link: https://guides.cocoapods.org/using/getting-started.html#installation
+
+> sudo gem install cocoapods
+
+### Install IOS
+
+> npx cap add ios
+
+- To open the App in a Xcode
+  > npx cap open ios
+
+### Install Android
+
+> npx cap add android
+
+- To open App in Android Emulator
+  > npx cap open android
+
 ## IONIC FIREBASE
 
 Link: https://ionicframework.com/docs/native/firebase
